@@ -11,7 +11,7 @@ const allowed = [
 
 const notAllowed = [
   "Levere KI-generert tekst som din egen",
-  "Bruke KI på eksamen uten eksplisitt tillatelse",
+  "Bruke KI på eksamen uten klar tillatelse",
   "Generere hele oppgaver og levere dem direkte",
   "Kopiere KI-svar uten kildeangivelse",
   "Dele eksamensoppgaver med KI-verktøy",

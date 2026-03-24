@@ -29,7 +29,7 @@ export function AcademicIntegrity() {
                 Levere tekst skrevet av KI som din egen uten å opplyse om det
               </li>
               <li className="text-sm leading-relaxed text-muted-foreground">
-                Bruke KI-verktøy under eksamen med mindre det er eksplisitt tillatt
+                Bruke KI-verktøy under eksamen med mindre det er klar tillatt
               </li>
               <li className="text-sm leading-relaxed text-muted-foreground">
                 Kopiere KI-genererte løsninger på obligatoriske oppgaver
